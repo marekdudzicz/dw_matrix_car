@@ -1,12 +1,9 @@
-# dw_matrix_car
-Przewidywanie cen samochodów
+# Projekt transformacja, czyli Matrix - poznaj reguły gry cz. II
 
-Day 1 - Colab + Drive + GitHub.
+## Przewidywanie cen samochodów
 
-Day 2 - Wizualizacja.
-
-Day 3 - Random forest.
-
-Day 4 - Biblioteka XGBoost.
-
-Day 5 - Tunning XGBoost - hyperopt
+- Dzień 1 - Colab + Drive + GitHub
+- Dzień 2 - Wizualizacja
+- Dzień 3 - Random forest
+- Dzień 4 - Biblioteka XGBoost
+- Dzień 5 - Tunning XGBoost - hyperopt
